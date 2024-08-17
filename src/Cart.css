@@ -1,0 +1,140 @@
+.tab table{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.tab  th{
+    margin-left: 20px;
+}
+.table tr{
+    margin-left: 20px;
+    gap: 30px;
+}
+td img{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.agre button{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    border-radius: 50%;
+    border: none;
+   
+    background-color: gray;
+}
+.ot{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.to{
+    width: 20px;
+    height: 30px;
+    margin-top:-50px;
+    margin-left: 17px;
+    font-size: 20px;
+    transition: all 0.5s;
+}
+.to:hover{
+    border: 1px solid #35e97e;
+    cursor: pointer;
+}
+.do{
+    width: 20px;
+    height: 30px;
+    background-color: rgba(0, 255, 255, 0);
+    margin-left: 17px;
+    font-size: 20px;
+    margin-top: -10px;
+    transition: all 0.5s;
+}
+.do:hover{
+    border: 1px solid #35e97e;
+    cursor: pointer;
+}
+.arrow{
+    gap: 15px;
+}
+
+table tr{
+    border: 1px solid rgba(0, 0, 0, 0.278);
+    padding: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.dd {
+    width: 100px;
+    
+    font-size: 20px;
+    background-color: #35e97e;
+    color: aliceblue;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.main-box{
+    width: 500px;
+    height: 300px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    float: right;
+    margin-top: -400px;
+    margin-right: 200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.main-box h3{
+    text-align: center;
+    color: #182b49;
+}
+.total{
+    margin-top: 20px;
+}
+.total h5{
+    margin-left: 20px;
+}
+.total span{
+    float: right;
+    margin-right: 20px;
+    color: #7b9887;
+}
+.red{
+    color: #ffb59e;
+    
+}
+.red span{
+    color: #ffb59e;
+}
+.corner{
+    margin-left: 50px;
+    margin-top: -20px;
+}
+.corner span{
+    float: right;
+    margin-right: 30px;
+}
+.proced{
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 180px;
+    background-color: transparent;
+    border: 1px solid #35e97e;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+.proced:hover{
+    background-color: #35e97e;
+    color: #ffffff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.down1{
+    margin-top: -750px;
+}

@@ -1,0 +1,123 @@
+.foot{
+    width: 100%;
+    height: 500px;
+    background-color: #1d2f4d;
+    margin-top: 900px;
+}
+.banner{
+    width: 800px;
+    height: 150px;
+    background-color: #09a661;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+.banner h2{
+    padding: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.sub{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 30px;
+    border: none;
+    background-color: #182b49;
+    color: antiquewhite;
+    transition: all 0.5s;
+    border-radius: 10px;
+    box-shadow :0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.sub:hover{
+background-color: #09a662a3;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.left-foot p{
+    color: gray;
+    max-width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.more2{
+    display: flex;
+    flex-direction: column;
+}
+.more2 i{
+    margin: 10px;
+    padding-left: 100px;
+    color: #09a661;
+    font-size: 10px;
+}
+.uses h3{
+    text-align: center;
+    margin-top: -250px;
+    color: aliceblue;
+}
+.uses ul{
+   margin-left: 650px;
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+.uses li{
+    color: gray;
+    list-style: none;
+    margin-top: 10px;
+    transition: all 0.5s;
+    width: 20%;
+    background-color: #09a66200;
+}
+.uses li:hover{
+    transform: scale(1.1);
+    color: #09a661;
+    cursor: pointer;
+}
+.uses span{
+    color: #09a661;
+    margin-right: 10px;
+}
+.right-foot img{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-top: -200px;
+    margin-right: 400px;
+    border-radius: 10px;
+}
+.right-foot p{
+    float: right;
+    margin-top: -200px;
+    margin-right: 80px;
+    transition: all 0.5s;
+}
+.right-foot p:hover{
+    color: #09a661;
+    cursor: pointer;
+}
+.right-foot span{
+    float: right;
+    margin-top: -150px;
+    margin-right:290px;
+    color: #09a661;
+}
+.social{
+    float: right;
+    margin-right: 150px;
+    font-size: 30px;
+    margin-top: -90px;
+}
+.social i{
+    margin: 10px;
+    color: #09a661;
+    transition: all 0.2s;
+}
+.social i:hover{
+    color: aliceblue;
+    transform: scale(1.2);
+    cursor: pointer;
+}

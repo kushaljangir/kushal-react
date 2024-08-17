@@ -1,0 +1,77 @@
+.cards{
+    margin-top: 150px;
+    margin-left: 200px;
+    z-index: 1;
+    position: relative;
+    display: flex;
+gap: 150px;
+}
+.card1{
+    width: 280px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card2{
+    width: 280px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card3{
+    width: 280px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card1 i{
+margin-left: 15px;
+margin-top: 25px;
+font-size: 35px;
+color:palevioletred;
+}
+.card1 h3{
+    margin-left: 80px;
+    margin-top: -50px;
+    font-size: 15px;
+}
+.card1 p{
+    margin-top: 8px;
+    margin-left: 70px;
+}
+.card2 i{
+    margin-left: 15px;
+    margin-top: 25px;
+    font-size: 35px;
+    color:purple;
+    }
+    .card3 i{
+        margin-left: 15px;
+        margin-top: 25px;
+        font-size: 35px;
+        color:royalblue;
+        }
+        .card2 h3{
+            margin-left: 80px;
+            font-size: 15px;
+            margin-top: -50px;
+        }
+        .card2 p{
+            margin-top: 8px;
+            margin-left: 70px;
+        }
+        .card3 h3{
+            margin-left: 80px;
+            margin-top: -50px;
+            font-size: 15px;
+        }
+        .card3 p{
+            margin-top: 8px;
+            margin-left: 70px;
+        }

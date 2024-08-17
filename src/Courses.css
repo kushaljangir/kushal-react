@@ -1,0 +1,194 @@
+.sidebar{
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.sidebar h2{
+    font-size: 20px;
+}
+input.largerCheckbox {
+    width: 60px;
+    height: 30px;
+    margin-left: -10px;
+    margin-top: 20px;
+    
+}
+.slider input:checked~.largerCheckbox {
+    background-color: green;
+}
+.web{
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -30px;
+}
+.pic img{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: -10px;
+}
+.name{
+   
+    margin-left: 90px;
+    margin-top: -80px;
+}
+.name h4{
+    font-size: 15px;
+    transition: all 0.5s;
+    background-color: #182b4900;
+    width: 150px;
+}
+.name h4:hover{
+    color: #00a76a;
+    cursor: pointer;
+}
+.rate{
+    margin-left: 90px;
+}
+.checked {
+    color: gold;
+  }
+  .list1 img{
+    width: 300px;
+    height:300px;
+    float: right;
+    margin-top: -1060px;
+    margin-right: 800px;
+    border-radius: 10px;
+  }
+  .name1 h4{
+    color:#182b49;
+    float: right;
+    margin-top: -1000px;
+    margin-right: 410px;
+    font-size: 30px;
+    transition: all 0.5s;
+    
+  }
+  .name1 h4:hover{
+    color: #00a76a;
+    cursor: pointer;
+  }
+  .sine{
+    float: right;
+    margin-top: -950px;
+    margin-right: 650px;
+    font-size: 25px;
+  }
+  .ipsum{
+    float: right;
+    margin-top: -890px;
+    margin-right: 290px;
+    font-size: 20px;
+    max-width: 500px;
+    color: gray;
+  }
+ .list2 img{
+    width: 300px;
+    height:300px;
+    float: right;
+    margin-top: -750px;
+    margin-right: 800px;
+    border-radius: 10px;
+  }
+  .list3 img{
+    width: 300px;
+    height:300px;
+    float: right;
+    margin-top: -430px;
+    margin-right: 800px;
+    border-radius: 10px;
+  }
+  .list4 img{
+    width: 300px;
+    height:300px;
+    float: right;
+    margin-top: -105px;
+    margin-right: 800px;
+    border-radius: 10px;
+  }
+  .name2 h4{
+    color:#182b49;
+    float: right;
+    margin-top: -700px;
+    margin-right: 410px;
+    font-size: 30px;
+    transition: all 0.5s;
+    
+  }
+  .name2 h4:hover{
+    color: #00a76a;
+    cursor: pointer;
+  }
+  .sine2{
+    float: right;
+    margin-top: -650px;
+    margin-right: 650px;
+    font-size: 25px;
+  }
+  .ipsum2{
+    float: right;
+    margin-top: -590px;
+    margin-right: 290px;
+    font-size: 20px;
+    max-width: 500px;
+    color: gray;
+  }
+
+  .name3 h4{
+    color:#182b49;
+    float: right;
+    margin-top: -400px;
+    margin-right: 410px;
+    font-size: 30px;
+    transition: all 0.5s;
+    
+  }
+  .name3 h4:hover{
+    color: #00a76a;
+    cursor: pointer;
+  }
+  .sine3{
+    float: right;
+    margin-top: -350px;
+    margin-right: 650px;
+    font-size: 25px;
+  }
+  .ipsum3{
+    float: right;
+    margin-top: -290px;
+    margin-right: 290px;
+    font-size: 20px;
+    max-width: 500px;
+    color: gray;
+  }
+  .name4 h4{
+    color:#182b49;
+    float: right;
+    margin-top: -250px;
+    margin-right: 410px;
+    font-size: 30px;
+    transition: all 0.5s;
+    
+  }
+  .name4 h4:hover{
+    color: #00a76a;
+    cursor: pointer;
+  }
+  .sine4{
+    float: right;
+    margin-top: -190px;
+    margin-right: 650px;
+    font-size: 25px;
+  }
+  .ipsum4{
+    float: right;
+    margin-top: -140px;
+    margin-right: 290px;
+    font-size: 20px;
+    max-width: 500px;
+    color: gray;
+  }
+  .down{
+    margin-top: -500px;
+  }

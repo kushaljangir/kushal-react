@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+PE:wght@100..400&display=swap');
+.ima img{
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.expo{
+    margin-top: 250px;
+    margin-left: 150px;
+}
+.ima2 img{
+    width: 200px;
+    height: 250px;
+    background-size: contain;
+    background-position: center;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-top: -200px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.right-side{
+    float: right;
+
+}
+.right-side h2{
+    margin-top: -450px;
+    margin-right: 20px;
+   font-family: "Open Sans", sans-serif;
+   color: #18375a;
+}
+.right-side p{
+    max-width: 550px;
+    font-size: 15px;
+    margin-top: 5px;
+    color: #a5b4be;
+}
+.num{
+    margin-top: 20px;
+    margin-left: 50px;
+    display: flex;
+    gap: 50px;
+}
+.num1 h3{
+    font-size: 25px;
+    margin-left: 15px;
+    color: #ff6f6f;
+}
+.num1 p{
+    font-size: 15px;
+}
+
+.num2 h3{
+    font-size: 25px;
+    margin-left: 15px;
+    color: #84479c;
+}
+#2c99eb
+.num2 p{
+    font-size: 15px;
+}
+.num3 h3{
+    font-size: 25px;
+    margin-left: 15px;
+    color: #2c99eb;
+}
+
+.num3 p{
+    font-size: 15px;
+}
+.more{
+    width: 150px;
+    height: 40px;
+    border: navajowhite;
+    color: aliceblue;
+    border-radius: 10px;
+    background: linear-gradient(to right,  #11998e,#38ef7d);
+    transition: all 0.5s;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.more:hover{
+    cursor: pointer;
+    background: linear-gradient(to right,  #38ef7d,#11998e);
+}

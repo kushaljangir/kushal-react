@@ -1,0 +1,52 @@
+.bg{
+    width: 100%;
+    height: 500px;
+    margin-top: 100px;
+ background-size: contain;
+ padding-left: 500px;
+   position: absolute;
+    background-image: url(https://www.thetahmid.com/themes/edulyn-v1.0/assets/images/vd-bg.jpg);
+    z-index: -1;
+}
+.bg2{
+    width: 95rem;
+    height: 500px;
+    background-color:#1d2f4df8;
+   margin-left: -500px;
+   padding-right: 500px;
+    z-index: 1;
+}
+.bg2 h1{
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    margin-right: -480px;
+}
+.massege {
+    display: flex;
+   margin-top:-200px;
+width: 50px;
+gap: 50px;
+margin-left: -50px;
+  
+
+   
+}
+input{
+padding-right: 50px;
+    border-radius: 10px;
+    background-color: none;
+ 
+  
+}
+.submit{
+ margin-top: 100px;
+    padding: 10px;
+    margin-left: 250px;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    background:linear-gradient(to right,  #11998e,#38ef7d) ;
+}
